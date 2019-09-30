@@ -1,6 +1,6 @@
 # README #
 
-Sample code that simulates Grover's algorithm, orginially part of a larger project that used svn version control.
+Sample code that simulates Grover's algorithm, orginially part of a larger svn project.
 
 * Version 1.0
 
